@@ -1,0 +1,24 @@
+.movielist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px 100px;
+  margin-top: 50px;
+  gap: 2rem;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+h4 {
+  margin-right: 10px;
+}
